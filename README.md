@@ -1,1 +1,1 @@
-# Food ordering website made using JSPs, CSS, Servlets, JDBC and MySQl
+# Food ordering website made using JSPs, CSS, Servlets, JDBC and MySQL
